@@ -15,5 +15,12 @@
 
 Since I was a kid, I dreamt of building new machines, featuring flashy lights and advanced technology. Today, I'm trying to fulfill that dream by getting into engineering.
 
-Im looking forward 
+If an idea pops into my head, I’ll build it. If I don’t know how, I’ll learn.
+
+My main languages are Python, C++ and C, although I often end up using web interfaces for my projects.
+
+I also learned many things about cybersecurity along my tech journey, and Im looking forward to complete the <a href="https://www.comptia.org/en-em/certifications/security/">CompTIA Security +</a> certification in the following months.
+
+If you wish to contact me, feel free to visit my Linkedln along futher information.
+
 
