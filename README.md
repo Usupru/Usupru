@@ -23,4 +23,5 @@ I also learned many things about cybersecurity along my tech journey, and Im loo
 
 If you wish to contact me, feel free to visit my Linkedln along futher information.
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Usupru)](https://github.com/anuraghazra/github-readme-stats)
 
