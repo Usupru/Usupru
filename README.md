@@ -15,11 +15,31 @@
 
 Since I was a kid, I dreamt of building new machines, featuring flashy lights and advanced technology. Today, I'm trying to fulfill that dream by getting into engineering.
 
-If an idea pops into my head, I’ll build it. If I don’t know how, I’ll learn.
+I'm a Python-focused developer with a strong interest in cybersecurity and hands-on hardware projects.
 
-My main languages are Python, C++ and C, although I often end up using web interfaces for my projects.
+<h2>🛠️ What I work on</h2>
 
-I also learned many things about cybersecurity along my tech journey, and Im looking forward to complete the <a href="https://www.comptia.org/en-em/certifications/security/">CompTIA Security +</a> certification in the following months.
+<ul>
+<li>Python tools (automation, security-focused utilities)</li>
+<li>Raspberry Pi & Arduino projects</li>
+<li>Small systems built with security in mind</li>
+</ul>
+
+<h2>🚀 Featured projects</h2>
+
+<ul>
+<li>🛡️ <a href="https://github.com/Usupru/Spriggan">Spriggan</a> – Lightweight encryption/decryption tool in Python</li>
+<li>🔭 <a href="https://github.com/Usupru/Stellarium">Stellarium Dome Controller</a> – Real-time telescope dome automation </li>
+<li>🛡️ <a href="https://github.com/Usupru/Vault">VaultNET</a> – Local-only file server focused on simplicity and security</li>
+</ul>
+
+<h2>🎯 Current goals</h2>
+
+<ul>
+<li>Improving my cybersecurity skills</li></li>
+<li>Getting hands on practical tools, not just tutorials</li>
+<li>Building amazing projects</li>
+</ul>
 
 If you wish to contact me, feel free to message me on <a href="https://www.instagram.com/nacho.acu.ar/">Instagram</a>.
 
