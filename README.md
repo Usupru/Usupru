@@ -43,5 +43,5 @@ I'm a Python-focused developer with a strong interest in cybersecurity and hands
 </ul>
 
 
-👤 If you wish to contact me, feel free to message me on <a href="https://www.instagram.com/nacho.acu.ar/">Instagram</a>.
+👤 If you wish to contact me, feel free to message me on <a href="https://www.linkedin.com/in/ignacio-acuña-b43648363/">Linkedin</a>.
 
