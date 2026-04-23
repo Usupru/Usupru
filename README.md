@@ -29,6 +29,7 @@ I'm a Python-focused developer with a strong interest in cybersecurity and hands
 
 <ul>
 <li>🌙 <a href="https://github.com/Usupru/Luna">Luna</a> – Fully customizable voice assistant</li>
+<li>🎟️ <a href="https://github.com/Usupru/Tickets">Tickets</a> – Full-stack event ticketing platform</li>
 <li>🛡️ <a href="https://github.com/Usupru/Spriggan">Spriggan</a> – Lightweight encryption/decryption tool in Python</li>
 <li>🔭 <a href="https://github.com/Usupru/Stellarium">Stellarium Dome Controller</a> – Real-time telescope dome automation </li>
 <li>📁 <a href="https://github.com/Usupru/Vault">VaultNET</a> – Local-only file server focused on simplicity and security</li>
